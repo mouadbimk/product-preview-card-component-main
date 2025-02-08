@@ -74,7 +74,7 @@ h1, h2, h3 {
   }
 }
 .product__image {
-  background-image: url("images/image-product-desktop.jpg");
+  background-image: url("https://mouadbimk.github.io/product-preview-card-component-main/images/image-product-desktop.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -85,7 +85,7 @@ h1, h2, h3 {
 }
 @media (max-width: 39.9375em) {
   .product__image {
-    background-image: url("images/image-product-mobile.jpg");
+    background-image: url("https://mouadbimk.github.io/product-preview-card-component-main/images/image-product-mobile.jpg");
     width: 100%;
     max-width: 350px;
     height: 250px;
